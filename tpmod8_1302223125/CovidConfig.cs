@@ -42,8 +42,8 @@ namespace tpmod8_1302223125
             dataConfig = new covidConfig();
             dataConfig.satuan_suhu = "celcius";
             dataConfig.batas_hari_demam = 14;
-            dataConfig.pesan_ditolak = "Anda tidak diperbolehkan masuk ke dalam gedung ini";
-            dataConfig.pesan_diterima = "Anda dipersilahkan untuk masuk ke dalam gedung ini";
+            dataConfig.pesan_ditolak = "Anda tidak diperbolehkan masuk ke dalam gedung";
+            dataConfig.pesan_diterima = "Anda dipersilahkan untuk masuk ke dalam gedung";
 
         }
 
